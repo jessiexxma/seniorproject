@@ -1,3 +1,11 @@
+# MPU6050 wiring and sensor code I borrowed and modified (I also used code from the MPU 6050 library): 
+https://www.youtube.com/watch?v=a37xWuNJsQI 
+
+# Python Music Synthesis code that I borrowed from and modified: 
+https://github.com/JamminCoder/music_maker 
+
+
+Readme from music_maker:
 # Rudimentary music maker/sound library with Python
 
 #### Generating tone with pygame code taken and modified from: https://stackoverflow.com/a/16268034
@@ -14,8 +22,6 @@ pip install pygame
 ```
 pip install numpy
 ```
-
-Then you can run `main.py`. Doing so will play the "Sweet Child 'O Mine" intro by "Guns 'n Roses".  
 
 ## Playing around with the library:
 
